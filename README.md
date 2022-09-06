@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saura101
 - 👀 I’m interested in ... tech stuff
-- 🌱 I’m currently learning ... ML
+- 🌱 I’m currently learning ... WebDevlopment
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...souradeepghosh00@gmail.com 
 
