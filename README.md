@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @saura101
+- 👋 Hi, I’m @saura101 , IT undergrad
 - 👀 I’m interested in ... tech stuff
 - 🌱 I’m currently learning ... WebDevelopment
 - 💞️ I’m looking to collaborate on ...
