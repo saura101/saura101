@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @saura101 , IT undergrad
-- 👀 I’m interested in ... tech stuff
-- 🌱 I’m currently learning ... WebDevelopment
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @saura101 , IT graduate
+- 👀 I’m interested in ... new tech stuff
+- 🌱 I’m currently learning ... Web Development
+- 💞️ I’m looking to collaborate on ... Web projects of the same tech stack
 - 📫 How to reach me ...souradeepghosh00@gmail.com 
 
 <!---
